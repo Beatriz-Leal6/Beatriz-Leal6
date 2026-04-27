@@ -1,6 +1,6 @@
 ## 🐱‍💻 Beatriz Leal
 
-Meu nome é Beatriz Leal Vieira da Costa, tenho 23 anos e sou graduada em História pela Universidade Federal Fluminense. Atualmente, estou no primeiro período de Análise e desenvolvimento de sistemas pela Uninter. Sempre disposta a aprender mais e mais sobre o universo da tecnologia e programação.
+Meu nome é Beatriz Leal Vieira da Costa, tenho 23 anos e sou graduada em História pela Universidade Federal Fluminense. Atualmente, estou no primeiro ano de Análise e desenvolvimento de sistemas pela Uninter. Sempre disposta a aprender mais e mais sobre o universo da tecnologia e programação.
 
 ### 💾 Linguagens e Tecnologias
 
